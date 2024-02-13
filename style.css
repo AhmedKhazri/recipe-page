@@ -1,0 +1,104 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  .intro {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  .prep{
+    display: block;
+    margin-left: 12%;
+    background-color: hsl(332, 51%, 50%);
+  }
+  
+  .recipe {
+    width: 80%;
+    background-color: hsl(330, 100%, 98%);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .unite {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .quantity {
+    text-align: right;
+    width: 25%;
+  }
+    
+  footer {
+    font-size: 14px;
+  }
+  
+  .author {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  @media only screen and (max-width: 479px) {
+    .recipe{
+      max-width: 375px;
+    }
+  }
