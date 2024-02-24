@@ -17,9 +17,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 in this challenge i used HTML and CSS.
 ### Screenshot
 
-![Desktop screenshot](.\assets\images\desktop-screenshot.png)
+![Desktop screenshot](./assets/images/desktop-screenshot.png)
 
-![Mobile screenshot](.\assets\images\mobile-screenshot.jpg)
+![Mobile screenshot](./assets/images/mobile-screenshot.jpg)
 
 ### Links
 
