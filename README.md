@@ -23,8 +23,8 @@ Mobile screenshot
 
 ### Links
 
-- Solution URL: [github repo](https://github.com/AhmedKhazri/recipe-page "" target="_blank")
-- Live Site URL: [live site](https://ahmedkhazri.github.io/recipe-page/ "" target="_blank")
+- Solution URL: [github repo](https://github.com/AhmedKhazri/recipe-pagetarget="_blank")
+- Live Site URL: [live site](https://ahmedkhazri.github.io/recipe-page/target="_blank")
 
 ## My process
 
